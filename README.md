@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This "read me" page will serve you, recruiters, businesses, and many other people, to contact me, to know what I am capable of, to see what are my values ​​in all that I do.
 
-Things you may want to cover:
+Not only I am a self-taught producer, but I also want to be a developer, or why not a programmer.
 
-* Ruby version
+But I could only with your help then, do not hesitate.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+mail: andeerakut14@gmail.com
+n °: 0327736537 - 0349986320
